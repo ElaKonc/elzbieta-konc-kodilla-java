@@ -12,6 +12,9 @@ public class TestingMain {
             System.out.println("error");
         }
 
-        System.out.println("Test 2");
+        System.out.println("Test 2\n");
+
+        System.out.println(Calculator.add(5, 3));
+        System.out.println(Calculator.substract(2,6));
     }
 }
