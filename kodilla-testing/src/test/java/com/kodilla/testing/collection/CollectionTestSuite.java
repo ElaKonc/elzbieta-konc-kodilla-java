@@ -1,14 +1,10 @@
 package com.kodilla.testing.collection;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.util.ArrayList;
 
 public class CollectionTestSuite {
-
-
 
         @Before
         public void startTest() {
